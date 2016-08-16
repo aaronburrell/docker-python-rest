@@ -1,2 +1,3 @@
-# docker-python-rest
-This is a python rest example
+# Docker Python Rest Service example
+
+This is an example of me creating a REST service using Python.
