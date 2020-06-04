@@ -17,7 +17,7 @@ class list_users:
     def GET(self):
         output = 'users:['
         for child in root:
-            print 'child', child.tag, child.attrib
+            print('child', child.tag, child.attrib)
             output += str(child.attrib) + ','
         output += ']'
         return output
