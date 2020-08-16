@@ -1,3 +1,3 @@
 #! /bin/bash
 
-sudo docker build -t python-rest:1.0 .
+docker build -t python-rest:1.0 .

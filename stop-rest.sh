@@ -1,4 +1,4 @@
 #! /bin/bash
 
-sudo docker stop python-rest
-sudo docker rm python-rest
+docker stop python-rest
+docker rm python-rest
